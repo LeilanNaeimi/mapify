@@ -3,5 +3,7 @@
 * [Live](https://leilannaeimi.github.io/mapify/)
 
   
-![map](https://github.com/LeilanNaeimi/mapify/assets/7776224/2599e71d-d975-47db-b3df-b4ae2c2a247f)
+![map](https://github.com/naleilan/mapify/assets/7776224/b2b3d366-9310-4529-883c-e828253e9d14)
+
+   
 * based on jonas schmidtmaan's udemy course

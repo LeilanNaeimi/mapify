@@ -1,6 +1,6 @@
 # mapify
 
-* [Live](https://leilannaeimi.github.io/mapify/)
+* [L i v e](https://naleilan.github.io/mapify/)
 
   
 ![map](https://github.com/naleilan/mapify/assets/7776224/b2b3d366-9310-4529-883c-e828253e9d14)
